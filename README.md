@@ -72,10 +72,6 @@ To run the project, follow these steps:
 
 Contributions to improve the project are welcome. Feel free to submit pull requests or report issues.
 
-#### License
-
-This project is licensed under the MIT License.
-
 ---
 
 This README provides a concise overview of the project, including its purpose, usage instructions, and key code snippets to get started with classifying colorectal histology tissues using TensorFlow.
